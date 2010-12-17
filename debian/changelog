@@ -1,3 +1,12 @@
+statsny (1.0.9) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * depend on ostrich 0.2.6
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 17 Dec 2010 18:15:59 +0000
+
 statsny (1.0.8) lucid; urgency=low
 
   [ Wade Simmons ]
