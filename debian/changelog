@@ -1,3 +1,12 @@
+statsny (1.0.10) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * depend on python-ostrich 0.2.7
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 17 Dec 2010 22:56:42 +0000
+
 statsny (1.0.9) lucid; urgency=low
 
   [ Wade Simmons ]
