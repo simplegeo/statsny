@@ -1,3 +1,12 @@
+statsny (1.0.12) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * add a few larger buckets in case something takes really long
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Mon, 03 Jan 2011 17:39:46 +0000
+
 statsny (1.0.11) lucid; urgency=low
 
   [ Wade Simmons ]
