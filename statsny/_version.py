@@ -2,5 +2,5 @@
 
 from distutils.version import LooseVersion as Version
 
-verstr = "1.0.14"
+verstr = "1.0.15"
 __version__ = Version(verstr)

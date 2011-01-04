@@ -1,3 +1,12 @@
+statsny (1.0.15) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * fix call to stats.add_timing
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 04 Jan 2011 22:48:02 +0000
+
 statsny (1.0.14) lucid; urgency=low
 
   [ Wade Simmons ]
