@@ -1,3 +1,13 @@
+statsny (1.0.13) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * depend on python-ostrich 0.3.1 and add support for submiting batch
+    stats
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 04 Jan 2011 20:45:08 +0000
+
 statsny (1.0.12) lucid; urgency=low
 
   [ Wade Simmons ]
