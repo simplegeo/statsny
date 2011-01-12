@@ -1,3 +1,15 @@
+statsny (1.0.18) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * move RESPONSE_CACHE_LENGTH to settings, make the default 50
+  * no need for "Recommends: nginx"
+  * make use of python-ostrich 0.3.3's ability to parse histograms in
+    TimingStat.from_raw_dict
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Wed, 12 Jan 2011 17:51:54 +0000
+
 statsny (1.0.17) lucid; urgency=low
 
   [ Wade Simmons ]
