@@ -1,3 +1,12 @@
+statsny (1.0.22) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * add support for very simple stats packets
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 15 Feb 2011 02:06:10 +0000
+
 statsny (1.0.21) lucid; urgency=low
 
   [ Wade Simmons ]
