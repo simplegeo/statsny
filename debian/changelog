@@ -1,3 +1,12 @@
+statsny (1.0.23) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * listen on TCP as well as UDP
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 22 Mar 2011 02:07:46 +0000
+
 statsny (1.0.22) lucid; urgency=low
 
   [ Wade Simmons ]
