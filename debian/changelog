@@ -1,3 +1,12 @@
+statsny (1.0.25) maverick; urgency=low
+
+  [ Wade Simmons ]
+  * don't fail if there are no stats / groups
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Thu, 01 Sep 2011 23:44:12 +0000
+
 statsny (1.0.24) maverick; urgency=low
 
   [ Wade Simmons ]
