@@ -1,3 +1,12 @@
+statsny (1.0.28) maverick; urgency=low
+
+  [ Jeremy Grosser ]
+  * Use simplejson if it's available
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 22 Nov 2011 20:41:41 +0000
+
 statsny (1.0.27) maverick; urgency=low
 
   * UNRELEASED
